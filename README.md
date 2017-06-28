@@ -1,2 +1,2 @@
 # TechnicalQuestionsCodes
-In this repository I maintain all the source codes of the most commonly asked programming interview questions.
+In this repository I've maintained all the source codes I've written for programming interview questions.
